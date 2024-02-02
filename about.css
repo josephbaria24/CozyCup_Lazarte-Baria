@@ -98,7 +98,7 @@ header h1 {
     font-family: 'merienda', 'merienda';
     position: absolute;
     margin-top: 18px;
-    left: 13%;
+    left: 15%;
     width: 40rem;
     transform: translate(-50%, -50%); /* Center the text */
 }
