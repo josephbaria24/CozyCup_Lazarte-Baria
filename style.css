@@ -14,8 +14,8 @@ body {
 header h1 {
     font-family: 'merienda', 'merienda';
     position: absolute;
-  margin-top: 18px;
-    left: 13%;
+  margin-top: 20px;
+    left: 15%;
     width: 40rem;
     transform: translate(-50%, -50%); /* Center the text */
 }
@@ -75,7 +75,6 @@ nav a:hover {
 
 }
 .featured-products h2 {
-    margin-top: ;
     font-family: 'merienda', 'merienda';
     font-size: 50px;
 }
